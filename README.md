@@ -1,4 +1,4 @@
-# Dell-7570-Hackintosh
+# Dell-7570-Hackintosh  for 10.13
 
 
 1. Move the clover folder to your own EFI folder
